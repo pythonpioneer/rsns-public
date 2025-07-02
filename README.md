@@ -8,10 +8,10 @@ This public repository documents the private **RSNS backend system**, a scalable
 
 ## 📚 Table of Contents
 
-* [Overview](#overview)
+* [Overview](#🧩-overview)
 * [Tech Stack](#tech-stack)
-* [Architecture](#architecture)
-* [Folder Structure](#folder-structure)
+* [Architecture](#🏗️-architecture)
+* [Folder Structure](#📁-folder-structure)
 * [Environment Variables](#environment-variables)
 * [Installation](#installation)
 * [API Endpoints](#api-endpoints)
