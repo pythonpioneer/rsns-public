@@ -34,7 +34,7 @@ The RSNS backend system:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * **Runtime & Language:** Node.js, TypeScript
 * **Web Framework:** Express.js
