@@ -8,8 +8,8 @@ This public repository documents the private **RSNS backend system**, a scalable
 
 ## 📚 Table of Contents
 
-* [Overview](#Overview)
-* [Tech Stack](#TechStack)
+* [Overview](#overview)
+* [Tech Stack](#tech-stack)
 * [Architecture](#architecture)
 * [Folder Structure](#folder-structure)
 * [Environment Variables](#environment-variables)
@@ -19,7 +19,6 @@ This public repository documents the private **RSNS backend system**, a scalable
 * [Rate Limiting](#rate-limiting)
 * [Project Flow](#project-flow)
 * [Contribute](#contribute)
-* [License](#license)
 
 ---
 
