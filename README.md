@@ -2,14 +2,14 @@
 
 This public repository documents the private **RSNS backend system**, a scalable geolocation-based alerting backend designed to improve road safety through user-driven hazard reporting. Built using **Node.js, TypeScript, Express, MongoDB, and Redis**, this system is under active development and is available for access upon request.
 
-> ⚠️ **Note:** The actual implementation is in a **private repository**. This public repo only contains documentation and project structure details. To request access, please contact [kumarhritiksinha@gmail.com](mailto:kumarhritiksinha@gmail.com).
+> ⚠️ Note: The actual implementation is in a private repository due to reasons including sensitive architecture details, API security concerns, and deployment configurations. This public repo only contains documentation and project structure details. To request access, please get in touch with kumarhritiksinha@gmail.com.
 
 ---
 
 ## 📚 Table of Contents
 
-* [Overview](#overview)
-* [Tech Stack](#tech-stack)
+* [Overview](#Overview)
+* [Tech Stack](#TechStack)
 * [Architecture](#architecture)
 * [Folder Structure](#folder-structure)
 * [Environment Variables](#environment-variables)
