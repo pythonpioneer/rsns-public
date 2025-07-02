@@ -8,10 +8,10 @@ This public repository documents the private **RSNS backend system**, a scalable
 
 ## 📚 Table of Contents
 
-* [Overview](#🧩-overview)
+* [Overview](#overview)
 * [Tech Stack](#tech-stack)
-* [Architecture](#🏗️-architecture)
-* [Folder Structure](#📁-folder-structure)
+* [Architecture](#architecture)
+* [Folder Structure](#folder-structure)
 * [Environment Variables](#environment-variables)
 * [Installation](#installation)
 * [API Endpoints](#api-endpoints)
@@ -22,7 +22,7 @@ This public repository documents the private **RSNS backend system**, a scalable
 
 ---
 
-## 🧩 Overview
+## Overview
 
 The RSNS backend system:
 
@@ -48,7 +48,7 @@ The RSNS backend system:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 * Modular structure using versioned APIs (`v1/`, `v2/`...)
 * Multi-layered separation: Routes → Middleware → Controller → Service → Model
@@ -58,7 +58,7 @@ The RSNS backend system:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 src/
@@ -96,7 +96,7 @@ src/
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 A full list is in `.env.sample`. Includes:
 
@@ -106,7 +106,7 @@ A full list is in `.env.sample`. Includes:
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/pythonpioneer/rsns-doc.git
@@ -120,7 +120,7 @@ npm run dev
 
 ---
 
-## 📬 API Endpoints
+## API Endpoints
 
 The API includes:
 
@@ -143,7 +143,7 @@ The API includes:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 | Type               | Tool             | Description                 |
 | ------------------ | ---------------- | --------------------------- |
@@ -161,7 +161,7 @@ npm run test:v1:integration
 
 ---
 
-## 🚦 Rate Limiting
+## Rate Limiting
 
 * Configurable via `rateLimiter.constants.ts`
 * Defines `points`, `duration`, `requests/day`
@@ -169,7 +169,7 @@ npm run test:v1:integration
 
 ---
 
-## 🔁 Project Flow
+## Project Flow
 
 1. Server starts → `index.ts`
 2. Routes routed by version → `src/v1/index.ts`
@@ -181,7 +181,7 @@ npm run test:v1:integration
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 This is a **documentation-only public repo**. The actual backend code is private.
 Feel free to open an issue or request access if you'd like to:
